@@ -1,6 +1,7 @@
 FROM wordpress:5.4.1-php7.3-apache
 LABEL Alexander Woollam <alex.woollam@proagrica.com>
 
+
 ENV XDEBUG_PORT 9000
 ENV XDEBUG_IDEKEY docker
 
