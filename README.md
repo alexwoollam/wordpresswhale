@@ -64,13 +64,7 @@ Example configuration file `.vscode/launch.json`:
 
 ## Docker Hub
 
-Published as [automattic/wordpress-xdebug](https://hub.docker.com/r/automattic/wordpress-xdebug) in **Docker Hub**.
-
-### How to publish a new build
-
-Push anything to master on [Automattic/wordpress-xdebug](https://github.com/Automattic/wordpress-xdebug) to get a new build done automatically. See [latest builds of automattic/wordpress-xdebug here](https://hub.docker.com/r/automattic/wordpress-xdebug/builds).
-
-Based on previous work from [andreccosta/wordpress-xdebug](https://hub.docker.com/r/andreccosta/wordpress-xdebug.)
+Published as [automattic/wordpress-xdebug](https://hub.docker.com/r/alexwoollam/wordpress-xdebug) in **Docker Hub**.
 
 ## License
 
