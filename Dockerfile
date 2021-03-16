@@ -1,4 +1,4 @@
-FROM wordpress:5.6.1-php7.4-apache
+FROM wordpress:php8.0-apache
 LABEL Alexander Woollam <alex.woollam@proagrica.com>
 
 
